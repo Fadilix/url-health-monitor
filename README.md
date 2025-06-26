@@ -47,9 +47,6 @@ go build -o url-health-monitor.exe .
 ./url-health-monitor.exe
 ```
 
-### 4. Access the Interface
-Open your browser and navigate to: http://localhost:8080
-
 ## 📡 REST API
 
 ### GET /api/status
